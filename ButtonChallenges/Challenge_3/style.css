@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+}
+
+.btn-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #cfdedf;
+}
+.btn-text-one {
+  text-transform: uppercase;
+}
+.btn {
+  background-color: #052359;
+  border: 0;
+  color: white;
+  padding: 15px 25px;
+  border-radius: 30px;
+  box-shadow: 0 10px 15px rgb(112, 112, 112);
+}
