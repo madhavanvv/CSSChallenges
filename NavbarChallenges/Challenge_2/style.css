@@ -1,0 +1,7 @@
+.mynav {
+  display: flex;
+}
+
+.mynav li {
+  list-style: none;
+}
