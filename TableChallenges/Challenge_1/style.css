@@ -9,13 +9,36 @@
 body {
   background-color: black;
 }
+.container {
+  margin-top: 50px;
+}
 .titledisp {
   width: fit-content;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 10px;
 }
 
 .btn {
+  width: fit-content;
   background-color: #609ea0;
+  padding: 5px 130px;
+  border-radius: 10px;
+}
+
+.btn b {
+  color: black;
+  font-weight: 900;
+}
+.yo {
+  margin-left: 230px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.yo input {
+  border-radius: 10px;
+}
+.myoptions {
   color: black;
 }
