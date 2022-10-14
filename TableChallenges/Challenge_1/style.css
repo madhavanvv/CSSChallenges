@@ -2,4 +2,8 @@
 * {
   font-family: "poppins", "verdana";
   box-sizing: border-box;
+  color: white;
+}
+body {
+  background-color: black;
 }
