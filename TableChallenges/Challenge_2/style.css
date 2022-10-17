@@ -1,7 +1,25 @@
 @import url("https://fonts.googleapis.com/css?family=Indie+Flower");
+body {
+  font-family: "Indie Flower";
+}
+th {
+  color: red;
+  font-weight: 800;
+}
 tr {
   background-color: aqua;
 }
+td {
+  font-weight: 800;
+}
 .engcolor {
-  background-color: blue;
+  background-color: #8fb1cc;
+}
+.bottomcap {
+  padding-left: 100px;
+  font-weight: 800;
+}
+.myrow {
+  height: 2px;
+  background-color: black;
 }
