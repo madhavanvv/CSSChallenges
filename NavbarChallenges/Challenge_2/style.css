@@ -5,3 +5,13 @@
 .mynav li {
   list-style: none;
 }
+.mynav > li > a {
+  background-color: aqua;
+  padding: 5px 50px;
+}
+.mynav > li > a:hover {
+  background-color: brown;
+}
+.mynav > li:nth-child(2) {
+  background-color: aqua;
+}
