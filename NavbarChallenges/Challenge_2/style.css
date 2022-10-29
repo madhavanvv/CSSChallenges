@@ -20,5 +20,5 @@ body {
   background-color: brown;
 }
 .mynav > li:nth-child(2) {
-  background-color: aqua;
+  background-color: rgb(96, 97, 97);
 }
